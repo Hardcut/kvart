@@ -1,0 +1,45 @@
+{
+  "name": "kvartblog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andronov Vasiliy",
+  "license": "ISC",
+  "devDependencies": {
+    "@fancyapps/fancybox": "^3.5.6",
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "pngquant": "^2.0.1"
+  },
+  "dependencies": {
+    "@babel/core": "^7.3.3",
+    "@babel/polyfill": "^7.4.0",
+    "@babel/preset-env": "^7.3.1",
+    "browser-sync": "^2.26.3",
+    "del": "^3.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-cache": "^1.1.1",
+    "gulp-csso": "^3.0.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-json-minify": "^1.2.2",
+    "gulp-rename": "^1.4.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^4.0.2",
+    "gulp-terser": "^1.1.7",
+    "imagemin-jpeg-recompress": "^6.0.0",
+    "imagemin-pngquant": "^5.0.1",
+    "pngquant-bin": "^3.1.1",
+    "rigger": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://TexterraDev@bitbucket.org/TexterraDev/kvartblog.git"
+  },
+  "homepage": "https://bitbucket.org/TexterraDev/kvartblog#readme",
+  "description": ""
+}
